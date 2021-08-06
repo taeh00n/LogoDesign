@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Final.dir/main.cpp.o CMakeFiles/Final.dir/Slider.cpp.o CMakeFiles/Final.dir/MouseEvents.cpp.o CMakeFiles/Final.dir/ColorPickerMenu.cpp.o CMakeFiles/Final.dir/GUIComponent.cpp.o CMakeFiles/Final.dir/Fonts.cpp.o CMakeFiles/Final.dir/DropDownAction.cpp.o -o Final 
